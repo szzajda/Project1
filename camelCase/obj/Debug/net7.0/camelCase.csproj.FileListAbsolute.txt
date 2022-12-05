@@ -1,0 +1,15 @@
+/Users/szymonzajda/Projects/camelCase/camelCase/bin/Debug/net7.0/camelCase
+/Users/szymonzajda/Projects/camelCase/camelCase/bin/Debug/net7.0/camelCase.deps.json
+/Users/szymonzajda/Projects/camelCase/camelCase/bin/Debug/net7.0/camelCase.runtimeconfig.json
+/Users/szymonzajda/Projects/camelCase/camelCase/bin/Debug/net7.0/camelCase.dll
+/Users/szymonzajda/Projects/camelCase/camelCase/bin/Debug/net7.0/camelCase.pdb
+/Users/szymonzajda/Projects/camelCase/camelCase/obj/Debug/net7.0/camelCase.csproj.AssemblyReference.cache
+/Users/szymonzajda/Projects/camelCase/camelCase/obj/Debug/net7.0/camelCase.GeneratedMSBuildEditorConfig.editorconfig
+/Users/szymonzajda/Projects/camelCase/camelCase/obj/Debug/net7.0/camelCase.AssemblyInfoInputs.cache
+/Users/szymonzajda/Projects/camelCase/camelCase/obj/Debug/net7.0/camelCase.AssemblyInfo.cs
+/Users/szymonzajda/Projects/camelCase/camelCase/obj/Debug/net7.0/camelCase.csproj.CoreCompileInputs.cache
+/Users/szymonzajda/Projects/camelCase/camelCase/obj/Debug/net7.0/camelCase.dll
+/Users/szymonzajda/Projects/camelCase/camelCase/obj/Debug/net7.0/refint/camelCase.dll
+/Users/szymonzajda/Projects/camelCase/camelCase/obj/Debug/net7.0/camelCase.pdb
+/Users/szymonzajda/Projects/camelCase/camelCase/obj/Debug/net7.0/camelCase.genruntimeconfig.cache
+/Users/szymonzajda/Projects/camelCase/camelCase/obj/Debug/net7.0/ref/camelCase.dll
